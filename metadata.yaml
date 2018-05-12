@@ -1,0 +1,28 @@
+_repo: Narrative-of-a-Voyage-to-India--of-a-Shipwreck-on-board-the-Lady-Castlereagh--and-a-Descripti__27113
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cramp, W. B.
+    gutenberg_agent_id: '32468'
+    url: http://www.gutenberg.org/2009/agents/32468
+description: ''
+gutenberg_issued: '2008-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New South Wales -- Description and travel'
+- !lcsh 'India -- Description and travel'
+- !lcsh 'Lady Castlereagh (Ship)'
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+title: Narrative of a Voyage to India; of a Shipwreck on board the Lady Castlereagh;
+  and a Description of New South Wales
+url: http://www.gutenberg.org/ebooks/27113
